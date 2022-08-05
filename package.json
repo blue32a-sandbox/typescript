@@ -1,0 +1,15 @@
+{
+  "name": "learning-typescript",
+  "version": "0.0.0",
+  "description": "Learning TypeScript language",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue32a-sandbox/typescript.git"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
