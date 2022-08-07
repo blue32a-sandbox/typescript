@@ -1,2 +1,3 @@
-# typescript
-Learning TypeScript language
+# Learning TypeScript language
+
+[サバイバルTypeScript](https://typescriptbook.jp/)
